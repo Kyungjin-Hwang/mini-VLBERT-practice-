@@ -11,4 +11,5 @@ https://arxiv.org/abs/1908.08530
 
 
 ### Reference
+The code on this page was copied from the link below and slightly modified.
 - https://github.com/jackroos/VL-BERT/
